@@ -2,30 +2,6 @@
 
 > 멋쟁이사자처럼 프론트엔드 스쿨 4기 LAB16 Javascript 연습공간
 
-### Contributors
-
-<p>
-  <a href="https://github.com/ukssss">
-    <img src=https://avatars.githubusercontent.com/u/86929961?v=4 width="125"/>
-  </a>
-  <a href="https://github.com/yurimpark">
-    <img src=https://avatars.githubusercontent.com/u/99720055?v=4
-    width="125"/>
-  </a>
-    <a href="https://github.com/ssw6750">
-    <img src=https://avatars.githubusercontent.com/u/73629761?v=4
-    width="125"/>
-  </a>
-  <a href="https://github.com/bellaru2022">
-    <img src=https://avatars.githubusercontent.com/u/108967196?v=4
-    width="125"/>
-  </a>
-  <a href="https://github.com/SimYuseon">
-    <img src=https://avatars.githubusercontent.com/u/111304551?v=4
-    width="125"/>
-  </a>
-</p>
-
 ### Rules
 
 <section>
